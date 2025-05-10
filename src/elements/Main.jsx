@@ -26,7 +26,7 @@ const Main = () => {
         </Routes>
       </article>
       <aside style={{ borderLeft: '1px solid #ccc', padding: '1rem' }}>
-        Иванов Иван Иванович
+        Арутюнян Лиана Арменовна
       </aside>
     </main>
   );
